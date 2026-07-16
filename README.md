@@ -1,4 +1,16 @@
 # DevOps Capstone Template
+ devops-capstone-project
+This repository contains the Customer Accounts microservice developed for the IBM DevOps and Software Engineering Capstone Project.
+
+The project uses Python, Flask, PostgreSQL, Docker, Kubernetes, OpenShift, GitHub Actions, and Tekton to implement and deliver a RESTful microservice for managing customer accounts.
+
+The Customer Accounts service supports the following operations:
+
+* Create a customer account
+* Read a customer account
+* Update a customer account
+* Delete a customer account
+* List all customer accounts
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
