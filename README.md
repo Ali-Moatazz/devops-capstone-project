@@ -1,5 +1,8 @@
 # DevOps Capstone Template
  devops-capstone-project
+
+ ![Build Status](https://github.com/Ali-Moatazz/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains the Customer Accounts microservice developed for the IBM DevOps and Software Engineering Capstone Project.
 
 The project uses Python, Flask, PostgreSQL, Docker, Kubernetes, OpenShift, GitHub Actions, and Tekton to implement and deliver a RESTful microservice for managing customer accounts.
