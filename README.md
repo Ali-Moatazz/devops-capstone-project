@@ -5,7 +5,7 @@ This repository contains the Customer Accounts microservice developed for the IB
 
 The project uses Python, Flask, PostgreSQL, Docker, Kubernetes, OpenShift, GitHub Actions, and Tekton to implement and deliver a RESTful microservice for managing customer accounts.
 
-[![CI Build](https://github.com/YOUR-GITHUB-USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/YOUR-GITHUB-USERNAME/devops-capstone-project/actions/workflows/ci-build.yaml)
+[![CI Build](https://github.com/Ali-Moatazz/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/Ali-Moatazz/devops-capstone-project/actions/workflows/ci-build.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
